@@ -6,6 +6,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+(Follow https://github.com/solana-labs/wallet-adapter#build-from-source if you're working on the `wallet-adapter` monorepo itself)
+
 First, run the development server:
 
 ```bash
